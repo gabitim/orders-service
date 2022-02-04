@@ -1,4 +1,4 @@
-package com.pos.orders.Orders.model;
+package com.pos.orders.model;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

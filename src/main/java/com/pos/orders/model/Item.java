@@ -1,4 +1,4 @@
-package com.pos.orders.Orders.model;
+package com.pos.orders.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

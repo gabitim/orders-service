@@ -1,4 +1,4 @@
-package com.pos.orders.Orders.model;
+package com.pos.orders.model;
 
 import lombok.Data;
 
@@ -7,7 +7,8 @@ import lombok.Data;
  */
 
 public enum Status {
+    NotInitialized,
     Initialized,
     Active,
-    Done
+    Done,
 }
